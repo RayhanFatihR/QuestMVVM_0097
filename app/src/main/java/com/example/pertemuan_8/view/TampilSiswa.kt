@@ -22,8 +22,8 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.myarsitekturmvvm.R
-import com.example.myarsitekturmvvm.model.Siswa
+import com.example.pertemuan_8.R
+import com.example.pertemuan_8.model.Siswa
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
